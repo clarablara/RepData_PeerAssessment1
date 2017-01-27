@@ -4,6 +4,11 @@
 
 ---
 
+### NOTE TO REVIEWERS:
+Please be sure to view the `PA1_template.md` file (rather than the `PA1_template.Rmd` file) so that you can view all the figures. Thank you.
+
+---
+
 
 ## Loading and preprocessing the data
 
@@ -37,26 +42,6 @@ head(data)
 ```r
 ## Load {dplyr} package; convert data to {dplyr} table
 library(dplyr)
-```
-
-```
-## 
-## Attaching package: 'dplyr'
-```
-
-```
-## The following objects are masked from 'package:stats':
-## 
-##     filter, lag
-```
-
-```
-## The following objects are masked from 'package:base':
-## 
-##     intersect, setdiff, setequal, union
-```
-
-```r
 data <- tbl_df(data)
 ```
 
@@ -85,7 +70,7 @@ print(xt1, type = "html", row.names = FALSE)
 ```
 
 <!-- html table generated in R 3.3.2 by xtable 1.8-2 package -->
-<!-- Fri Jan 27 15:23:06 2017 -->
+<!-- Fri Jan 27 15:27:15 2017 -->
 <table border=1>
 <tr> <th>  </th> <th> date </th> <th> steps </th>  </tr>
   <tr> <td align="right"> 1 </td> <td> 2012-10-01 </td> <td align="right">  </td> </tr>

@@ -4,6 +4,11 @@
 
 ---
 
+### NOTE TO REVIEWERS:
+Please be sure to view the `PA1_template.md` file (rather than the `PA1_template.Rmd` file) so that you can view all the figures. Thank you.
+
+---
+
 
 ## Loading and preprocessing the data
 
