@@ -1,20 +1,5 @@
----
-title: "Reproducible Research: Peer Assessment 1"
-author: "Clara Abdurazak"
-date: "January 25, 2017"
-output: html_document
-keep_md: true
----
-
-
----
-
-
-### NOTE TO REVIEWERS:
-
-Please note that I used the [`{R Markdown}`](http://rmarkdown.rstudio.com/) package to create this file, so:  
-1. there is no intermediate .md file in my repo (it's not needed by the package so it wasn't created)  
-2. all figures are embedded in this document (so there's no `figure/` folder in my repo)  
+# Reproducible Research: Peer Assessment 1
+### Clara Abdurazak | January 25, 2017
 
 
 ---
